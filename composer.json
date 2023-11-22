@@ -1,0 +1,18 @@
+{
+    "name": "bchubb-web/wp-question-builder",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BchubbWeb\\WpQuestionBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Billy Chubb",
+            "email": "billy@bchubb.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
